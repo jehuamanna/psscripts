@@ -167,8 +167,8 @@ function IsFileOneOfThese( inFileName, inArrayOfFileExtensions ) {
 function getName(filename, code){
         filename = filename.split(".")[0]
         filename = filename.split("_")[0]
-        return filename + "_" + code
-    }
+        return filename + (code==""?"":"_" + code}
+     }
 
 
 function rename_file(array_codes){
