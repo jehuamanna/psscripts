@@ -1,4 +1,4 @@
-﻿// openFolder.jsx
+// openFolder.jsx
 // Copyright 2006-2008
 // Written by Jeffrey Tranberry
 // Photoshop for Geeks Version 2.0
