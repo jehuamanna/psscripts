@@ -1,4 +1,4 @@
-
+/*
 Description:
 This script is a template script that will
 open and process a folder of images
